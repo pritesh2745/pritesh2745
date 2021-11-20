@@ -1,16 +1,30 @@
 ### Hi there 👋
 
-<!--
-**pritesh2745/pritesh2745** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hey there :wave:
 
-Here are some ideas to get you started:
+<img src="https://raw.githubusercontent.com/pritesh2745/pritesh2745/master/banner.png" alt="Hello world">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/pritesh2745/count.svg" />
+</p>
+
+## About me
+
+
+
+ 
+
+
+## Things I am passionate about
+
+- Web dev :computer:
+- Open source :octocat:
+
+## Get in touch :coffee:
+
+- Your future buddy to discuss Web dev related things and tech in general on [Twitter](https://twitter.com/pritesh__vandra).
+- Your future employee on [LinkedIn](https://www.linkedin.com/in/pritesh-vandra-541107206/)
+- And of course GitHub you're already on (Recursion).
+
+
