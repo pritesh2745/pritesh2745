@@ -26,11 +26,13 @@ also begginer in open source contribution.
 
 - Your future buddy to discuss Web dev related things and tech in general on [Twitter](https://twitter.com/pritesh__vandra).
 - Your future employee on [LinkedIn](https://www.linkedin.com/in/pritesh-vandra-541107206/)
+- Mail-Id - vandrapritesh2745@gmail.com
 - And of course GitHub you're already on (Recursion).
 
 ## Some of the stats
 ![my GitHub stats](https://github-readme-stats.vercel.app/api?username=pritesh2745&show_icons=true&theme=nord)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pritesh2745&layout=compact)](https://github.com/pritesh2745/github-readme-stats)
+<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pritesh2745&layout=compact&theme=nord)](https://github.com/pritesh2745/github-readme-stats)
 
 
 
