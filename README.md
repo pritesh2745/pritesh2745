@@ -2,7 +2,6 @@
 
 # Hey there i'm Pritesh :wave:
 <br>
-<hr>
 
 <img src="https://raw.githubusercontent.com/pritesh2745/pritesh2745/master/banner.png" alt="Hello world">
 
@@ -32,7 +31,7 @@ also begginer in open source contribution.
 - And of course GitHub you're already on (Recursion).
 
 ## Some of the stats
-![my GitHub stats](https://github-readme-stats.vercel.app/api?username=pritesh2745&show_icons=true&theme=nord)
+![my github stats](https://github-readme-stats.vercel.app/api?username=pritesh2745&show_icons=true&theme=nord)
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pritesh2745&layout=compact&theme=nord)](https://github.com/pritesh2745/github-readme-stats)
 
