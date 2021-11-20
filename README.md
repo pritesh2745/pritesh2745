@@ -4,13 +4,14 @@
 
 <img src="https://raw.githubusercontent.com/pritesh2745/pritesh2745/master/banner.png" alt="Hello world">
 
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/pritesh2745/count.svg" />
-</p>
 
 ## About me
 
+2nd year btech student at Charusat university :man_student:.
+
+Knowing pretty good stuff in web dev (html,css,javascript) ,currently learning data structures and algorithms in java :coffee:,
+<br>
+also begginer in open source contribution.
 
 
  
@@ -28,3 +29,7 @@
 - And of course GitHub you're already on (Recursion).
 
 
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/pritesh2745/count.svg" />
+</p>
