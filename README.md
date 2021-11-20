@@ -33,7 +33,7 @@ also begginer in open source contribution.
 ## Some of the stats
 ![my github stats](https://github-readme-stats.vercel.app/api?username=pritesh2745&show_icons=true&theme=nord)
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pritesh2745&layout=compact&theme=nord)](https://github.com/pritesh2745/college-corner)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pritesh2745&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
