@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 # Hey there :wave:
 
@@ -28,8 +28,14 @@ also begginer in open source contribution.
 - Your future employee on [LinkedIn](https://www.linkedin.com/in/pritesh-vandra-541107206/)
 - And of course GitHub you're already on (Recursion).
 
+## Some of the stats
+![my GitHub stats](https://github-readme-stats.vercel.app/api?username=pritesh2745&show_icons=true&theme=nord)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pritesh2745&layout=compact)](https://github.com/pritesh2745/github-readme-stats)
+
+
 
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/pritesh2745/count.svg" />
 </p>
+
