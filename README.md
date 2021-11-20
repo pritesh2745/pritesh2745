@@ -1,6 +1,8 @@
 
 
-# Hey there :wave:
+# Hey there i'm Pritesh :wave:
+<br>
+<hr>
 
 <img src="https://raw.githubusercontent.com/pritesh2745/pritesh2745/master/banner.png" alt="Hello world">
 
