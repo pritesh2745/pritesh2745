@@ -8,7 +8,7 @@
 
 ## About me
 
-2nd year btech student at Charusat university :man_student:.
+3rd year btech student at Charusat university :man_student:.
 
 Knowing pretty good stuff in web dev (html,css,javascript) ,currently learning data structures and algorithms in java :coffee:,
 <br>
@@ -22,6 +22,7 @@ also begginer in open source contribution.
 
 - Web dev :computer:
 - Open source :octocat:
+- Android dev :iphone:
 
 ## Get in touch :coffee:
 
